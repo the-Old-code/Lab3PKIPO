@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0Y+kz2RYcbIdZ9sNSf2Pa4hiuaR6vt4J+VPGvpMTKfGGYwAmtJB6rTt6QVaRlFv0Ueqro3TcgzC6v4WoE2ehg==",
+  "success": true,
+  "projectFilePath": "D:\\labs\\Проектирование ПО\\алгоритм обработки данных\\DataHandling\\DataHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranif\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ranif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
